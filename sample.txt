@@ -1,1 +1,2 @@
 sample added to git
+new content added by git gui
